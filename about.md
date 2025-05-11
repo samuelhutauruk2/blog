@@ -5,7 +5,7 @@ permalink: /blog/about/
 ---
 
 ## Hi there, I'm Samuel Hutauruk
-<img align="right" src="/assets/images/chibi.png" alt="Chibi" width=350px height=350px/>
+<img align="right" src="{{ site.url }}{{ site.baseurl }}/assets/images/chibi.png" alt="Chibi" width=350px height=350px/>
 <!-- ![chibi](/assets/images/chibi.png) -->
 
 Hi, I'm not a software engineer nor a network engineer
