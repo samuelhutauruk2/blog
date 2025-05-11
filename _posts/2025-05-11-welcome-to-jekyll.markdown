@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
+author: samuel
 date:   2025-05-11 15:45:20 +0700
 categories: jekyll update
 ---
