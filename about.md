@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-permalink: /about/
+permalink: /blog/about/
 ---
 
 ## Hi there, I'm Samuel Hutauruk
