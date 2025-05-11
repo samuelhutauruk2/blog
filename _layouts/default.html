@@ -6,7 +6,16 @@
     <title>{{ page.title }}</title>
 </head>
 <body>
-    {% include navigation.html %}
-    {{ content }}
+    <header>
+        {% include navigation.html %}
+    </header>
+
+    <main>
+        {{ content }}
+    </main>
+
+    <footer>
+        <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
+    </footer>
 </body>
 </html>
